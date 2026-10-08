@@ -1,0 +1,42 @@
+MACROOPS AI – DELIVERY DELAY STANDARD OPERATING PROCEDURE (SOP)
+
+Purpose:
+This SOP provides a structured procedure for handling delivery delays and reducing SLA breaches.
+
+1. IDENTIFY THE ISSUE
+- Identify orders that have exceeded or are at risk of exceeding the promised delivery time.
+- Check the current delivery delay in minutes.
+- Check the SLA status of the order.
+
+2. CHECK DELIVERY ASSIGNMENT
+- Verify whether a rider has been assigned.
+- Check the rider assignment delay.
+- Check whether the assigned rider is available to complete the delivery.
+
+3. CHECK DELIVERY CONDITIONS
+- Review the delivery distance.
+- Check whether the delay is related to rider assignment, operational workload, or delivery conditions.
+- Identify whether similar delays are affecting multiple orders.
+
+4. PRIORITIZE THE ORDER
+- High-risk or SLA-breaching orders should receive immediate attention.
+- Prioritize orders that are close to or beyond their promised delivery time.
+
+5. TAKE CORRECTIVE ACTION
+- Contact or reassign the rider when required.
+- Prioritize delayed orders for fulfillment and delivery.
+- Escalate repeated or severe delivery delays to the operations manager.
+
+6. RECORD THE RESOLUTION
+- Record the reason for the delay.
+- Record the corrective action taken.
+- Monitor the order until the issue is resolved.
+
+7. PREVENTIVE ACTION
+- Monitor assignment delays regularly.
+- Identify recurring delivery bottlenecks.
+- Review workforce and rider availability.
+- Use SLA risk and exception information to identify potential problems early.
+
+IMPORTANT:
+This SOP is a project-level operational knowledge document for the MacroOps AI prototype. Operational actions should be reviewed and approved by the responsible manager.
